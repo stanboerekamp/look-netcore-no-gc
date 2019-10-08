@@ -1,4 +1,4 @@
-﻿namespace Boxer
+﻿namespace Boxer.Classes
 {
     public class Class
     {

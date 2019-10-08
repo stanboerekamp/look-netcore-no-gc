@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace Boxer
+namespace Boxer.Classes
 {
-    public class ClassWithSpecializedEquals
+    public class ClassWithReferenceSpecializedEquals
     {
         public int Value { get; set; }
 
         public override bool Equals(object obj)
         {
-            return !(obj is ClassWithSpecializedEquals other) ? false : other.Value == Value;
+            return ReferenceEquals(this, obj);
         }
 
         public override int GetHashCode()
@@ -17,4 +17,3 @@ namespace Boxer
         }
     }
 }
-

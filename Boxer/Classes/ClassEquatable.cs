@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Boxer
+namespace Boxer.Classes
 {
     public class ClassEquatable : IEquatable<ClassEquatable>
     {

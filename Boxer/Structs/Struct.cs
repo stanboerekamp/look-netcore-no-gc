@@ -1,4 +1,4 @@
-﻿namespace Boxer
+﻿namespace Boxer.Structs
 {
     public struct Struct
     {

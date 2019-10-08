@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Boxer
+namespace Boxer.Structs
 {
     public struct StructWithSpecializedEquals
     {
