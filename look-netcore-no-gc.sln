@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boxer", "Boxer\Boxer.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksAndState", "TasksAndState\TasksAndState.csproj", "{74DD066F-DC49-4409-A864-86CE07BEBC42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{7F3A69A6-DC8D-45A6-9D11-27848A9DDCEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74DD066F-DC49-4409-A864-86CE07BEBC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74DD066F-DC49-4409-A864-86CE07BEBC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74DD066F-DC49-4409-A864-86CE07BEBC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3A69A6-DC8D-45A6-9D11-27848A9DDCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3A69A6-DC8D-45A6-9D11-27848A9DDCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3A69A6-DC8D-45A6-9D11-27848A9DDCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3A69A6-DC8D-45A6-9D11-27848A9DDCEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
